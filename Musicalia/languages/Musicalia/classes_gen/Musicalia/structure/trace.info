@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,38,0" name="Musicalia.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <unit at="10,0,30,0" name="Musicalia.structure.LanguageConceptSwitch" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="15,0,78,0" name="Musicalia.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:7510d4b9-4617-454f-869c-a08e1ea38799(Musicalia.structure)/5072731238767363766">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="5072731238767363766" at="12,0,13,0" concept="1" trace="props_Note" />
+      <node id="5072731238767363766" at="21,33,22,76" concept="3" />
+      <node id="5072731238767363766" at="22,76,23,38" concept="0" />
+      <node id="5072731238767363766" at="23,38,24,36" concept="0" />
+      <node id="5072731238767363766" at="25,9,26,26" concept="4" />
+      <node id="5072731238767363766" at="20,38,25,9" concept="2" />
+      <scope id="5072731238767363766" at="21,33,24,36">
+        <var name="cpb" id="5072731238767363766" />
+      </scope>
+      <scope id="5072731238767363766" at="20,38,26,26" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="5072731238767363766" at="12,0,13,0" concept="5" trace="Note" />
+      <node id="5072731238767363766" at="16,116,17,43" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="5072731238767363766" at="16,0,17,0" concept="1" trace="myConceptNote" />
+      <node id="5072731238767363766" at="39,38,40,29" concept="4" />
+      <node id="5072731238767363766" at="53,62,54,148" concept="3" />
+      <node id="5072731238767363766" at="54,148,55,34" concept="0" />
+      <node id="5072731238767363766" at="55,34,56,96" concept="0" />
+      <node id="5072731238767363766" at="56,96,57,17" concept="0" />
+      <node id="5072731238767442754" at="57,17,58,115" concept="0" />
+      <node id="5168276678392779564" at="58,115,59,113" concept="0" />
+      <node id="8944807901834641514" at="59,113,60,111" concept="0" />
+      <node id="8944807901834641536" at="60,111,61,111" concept="0" />
+      <node id="3466124274505911109" at="61,111,62,113" concept="0" />
+      <node id="5072731238767363766" at="62,113,63,22" concept="4" />
+      <node id="5072731238767363766" at="53,0,65,0" concept="6" trace="createDescriptorForNote#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="5072731238767363766" at="39,38,40,29" />
+      <scope id="5072731238767363766" at="53,62,63,22">
+        <var name="b" id="5072731238767363766" />
+      </scope>
+      <scope id="5072731238767363766" at="53,0,65,0" />
+    </file>
+  </root>
+  <root nodeRef="r:7510d4b9-4617-454f-869c-a08e1ea38799(Musicalia.structure)/5072731238767442733">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="5072731238767442733" at="13,0,14,0" concept="1" trace="props_Track" />
+      <node id="5072731238767442733" at="28,34,29,76" concept="3" />
+      <node id="5072731238767442733" at="29,76,30,35" concept="0" />
+      <node id="5072731238767442733" at="30,35,31,37" concept="0" />
+      <node id="5072731238767442733" at="32,9,33,27" concept="4" />
+      <node id="5072731238767442733" at="27,39,32,9" concept="2" />
+      <scope id="5072731238767442733" at="28,34,31,37">
+        <var name="cpb" id="5072731238767442733" />
+      </scope>
+      <scope id="5072731238767442733" at="27,39,33,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="5072731238767442733" at="13,0,14,0" concept="5" trace="Track" />
+      <node id="5072731238767442733" at="17,43,18,44" concept="0" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="5072731238767442733" at="17,0,18,0" concept="1" trace="myConceptTrack" />
+      <node id="5072731238767442733" at="41,39,42,30" concept="4" />
+      <node id="5072731238767442733" at="65,63,66,149" concept="3" />
+      <node id="5072731238767442733" at="66,149,67,33" concept="0" />
+      <node id="5072731238767442733" at="67,33,68,71" concept="0" />
+      <node id="5072731238767442733" at="68,71,69,76" concept="0" />
+      <node id="5072731238767442733" at="69,76,70,96" concept="0" />
+      <node id="5072731238767442733" at="70,96,71,17" concept="0" />
+      <node id="5168276678392779545" at="71,17,72,110" concept="0" />
+      <node id="5072731238767442744" at="72,110,73,197" concept="0" />
+      <node id="5072731238767442733" at="73,197,74,21" concept="0" />
+      <node id="5072731238767442733" at="74,21,75,22" concept="4" />
+      <node id="5072731238767442733" at="65,0,77,0" concept="6" trace="createDescriptorForTrack#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="5072731238767442733" at="41,39,42,30" />
+      <scope id="5072731238767442733" at="65,63,75,22">
+        <var name="b" id="5072731238767442733" />
+      </scope>
+      <scope id="5072731238767442733" at="65,0,77,0" />
+    </file>
+  </root>
+</debug-info>
+
